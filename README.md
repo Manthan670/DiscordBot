@@ -1,11 +1,11 @@
 # BYOP Programming in Java
-NAME : ADITYA AMAN
+NAME : Manthan Rohira
 
-REG NO. : 24BAI10129
+REG NO. : 24BAI10670
 
 SOFTWARE : Discord Bot using Java
 
-Programming in Java (Bring Your Own Project (BYOP) : BL2025260500548 : F11+F12
+Programming in Java (Bring Your Own Project (BYOP) : BL2025260500548 : E11+E12
 
 ---
 
